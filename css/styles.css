@@ -37,7 +37,7 @@ li{
 
 
 
-
+/* Quando a tela for igual a 700px ela ativa o mediaquery */
 
 @media screen and (max-width: 700px){
     .header{
@@ -45,7 +45,7 @@ li{
     }
 }
 
-/* Quando a tela for igual a 400px ela ativa o mediaquerie */
+/* Quando a tela for igual a 400px ela ativa o mediaquery */
 
 
 @media screen and (max-width:500px) {
